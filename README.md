@@ -31,6 +31,9 @@ Make sure to check the specific i/o requirements for your board. For the DE-10 L
 
 ---
 
+## Display on the DE-10 LITE
+![DE-10 LITE Display](docs/counter.active.jpg)
+
 ## How it Works
 The modular design calls and controls submodules through the TopModule.v. 
 - **TopModule.v** calls the submodules stopwatch.v and pulse_counter.v 
