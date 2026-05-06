@@ -59,10 +59,10 @@ The modular design calls and controls submodules through the TopModule.v.
     Make sure to set the TopModule.v to top-level-entity in Quartus by going to Project -> Set as Top-Level Entity.
 - **Pins aren't working** 
     Double check all pin assignments and i/0 standards.
-    For DE-10 LITE specific pin assignments and i/o standards: [Link Text](https://pdfhost.io/v/Q8U7Abt45_DE10-Lite_User_Manual)
+    For DE-10 LITE specific pin assignments and i/o standards: [DE-10 LITE USER MANUAL](https://pdfhost.io/v/Q8U7Abt45_DE10-Lite_User_Manual)
 - **Timing Errors**
     Confirm 50MHz clock frequency.
 - **Programming/USB Blaster Errors**
     Confirm USB Blaster software is installed and updated.
-    USB Blaster Windows 11: [Link Text](drivers/USB-blaster-windows11.zip)
+    USB Blaster Windows 11: [Windows 11 USB Blaster](drivers/USB-blaster-windows11.zip)
 ---
